@@ -7,7 +7,6 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  family_members = ["Beth", "Barry", "Brennan", "Jeremy"]
   family_members << "Liam"
 end
 
