@@ -8,6 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   family_members << "Liam"
+  p family_members
 end
 
 def add_element_to_start_of_array(array, element)
